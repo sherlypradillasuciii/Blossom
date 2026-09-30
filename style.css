@@ -284,22 +284,22 @@ body {
   }
   .galeri-1 {
     background: linear-gradient(rgba(255, 255, 255, 0.171), rgba(0,0,0,0.281)),
-    url('gambar/galeri1.jpeg');
+    url('image/galeri1.jpeg');
     background-size: cover;
   }
   .galeri-2 {
     background: linear-gradient(rgba(255, 255, 255, 0.171), rgba(0,0,0,0.281)),
-    url('gambar/galeri2.jpeg');
+    url('image/galeri2.jpeg');
     background-size: cover;
   }
   .galeri-3 {
     background: linear-gradient(rgba(255, 255, 255, 0.171), rgba(0,0,0,0.281)),
-    url('gambar/galeri3.jpeg');
+    url('image/galeri3.jpeg');
     background-size: cover;
   }
   .galeri-4 {
     background: linear-gradient(rgba(255, 255, 255, 0.171), rgba(0,0,0,0.281)),
-    url('gambar/galeri4.jpeg');
+    url('image/galeri4.jpeg');
     background-size: cover;
   }
     
